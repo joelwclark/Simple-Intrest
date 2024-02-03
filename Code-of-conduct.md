@@ -1,1 +1,7 @@
-
+Code of Conduct
+Be respectful and inclusive: Treat all participants with respect and courtesy, regardless of their background, identity, or opinions. Use inclusive language and avoid making derogatory or discriminatory remarks.
+Foster a safe environment: Harassment, discrimination, and bullying will not be tolerated. This includes, but is not limited to, any form of verbal, physical, or online abuse. Respect personal boundaries and refrain from unwelcome advances or offensive behavior.
+Encourage constructive communication: Engage in open and constructive discussions. Value diverse perspectives and be willing to listen to others' opinions even if they differ from your own. Disagreements should be handled respectfully and professionally.
+Collaborate and support: Cultivate an atmosphere of collaboration, encouragement, and support. Help others succeed and be open to providing guidance and mentorship. Create opportunities for everyone to actively participate and contribute.
+Report violations: If you witness or experience any violations of this code of conduct, promptly report them to the project maintainers/administrators. All reports will be treated with confidentiality and will be thoroughly investigated.
+By participating in this project, you agree to abide by this code of conduct. Failure to do so may result in consequences, including but not limited to warning, removal from the project, or banishment from the community.
